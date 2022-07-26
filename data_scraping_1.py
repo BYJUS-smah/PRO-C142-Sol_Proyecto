@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup as bs
 import requests
 import pandas as pd
 
-# NOTE: The page at the given URL is maintained by "wikipedia", which might be updated in future.
+# NOTA: la página en la URL dada se mantiene por "Wikipedia", la cual podría ser actualizada en el futuro.
 
 bright_stars_url = 'https://en.wikipedia.org/wiki/List_of_brightest_stars_and_other_record_stars'
 
